@@ -23,6 +23,6 @@ La mise en place d'un système de gestion des rendez-vous pour les cliniques rep
 
 Travail de: 
 "Hamza Mouisset"
--"Amine Lacheghr"
+-"Amine Lachegur"
 -"Oussama Laghfiri"
 -"Walid Aubouhan"
