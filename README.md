@@ -20,3 +20,9 @@ Les patients pourront consulter leurs rendez-vous existants.
 
 ## Conclusion
 La mise en place d'un système de gestion des rendez-vous pour les cliniques représentera une solution pratique et conviviale, bénéfique tant pour les patients que pour le personnel médical. Ce système améliorera l'efficacité de la planification des rendez-vous, réduira les risques d'erreurs de communication et améliorera globalement l'expérience des patients. Le développement de cette application web contribuera à moderniser les pratiques de gestion des rendez-vous au sein des cliniques médicales, en favorisant une approche plus automatisée et axée sur le bien-être des patients.
+
+Travail de: 
+Hamza Mouisset
+Amine Lacheghr
+Oussama Laghfiri
+Walid Aubouhan
