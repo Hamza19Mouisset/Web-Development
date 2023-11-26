@@ -1,0 +1,28 @@
+{% extends 'Base.html' %}
+{% load static %}
+{% block title %}Appointment{% endblock title %}
+{% block content %}
+
+<p class="txt3">Les Rendez-vous disponibles :</p>
+<table class="table1">
+        
+		<tr>
+			<th>Nom:</th>
+            <th>Genre</th>
+            <th>Age</th>
+            <th>Département Médical</th>
+            <th>Date et Temps</th>
+			
+		</tr>
+        {% for i in App %}
+        <tr>
+            <td>{{i.Patient_detail.first_name}} {{i.Patient_detail.last_name}}  </td>
+			<td>{{i.Gender}}</td>	
+			<td>{{i.Age}}</td>
+            <td>{{i.Medical_Specialties}}</td>
+            <td>{{i.Date_and_time}}</td>
+        </tr>
+        {% endfor %}
+	</table>
+
+{% endblock %}
